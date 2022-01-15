@@ -59,7 +59,6 @@ choco upgrade foxitreader -y
 choco upgrade pdfsam -y
 choco upgrade treesizefree -y
 :: Maintenance
-choco upgrade ccleaner -y
 choco upgrade revo-uninstaller -y
 choco upgrade choco-cleaner -y
 choco upgrade malwarebytes -y
