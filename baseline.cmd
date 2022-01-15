@@ -49,6 +49,5 @@ choco upgrade revo-uninstaller -y
 choco upgrade choco-cleaner -y
 choco upgrade bitwarden -y
 choco upgrade malwarebytes -y
-choco upgrade bitwarden -y
 :: Chocolatey
 choco upgrade chocolatey -y
