@@ -44,7 +44,6 @@ choco upgrade steam-client -y
 choco upgrade obs-studio -y
 choco upgrade vlc -y
 :: Utilities
-choco upgrade ccleaner -y
 choco upgrade revo-uninstaller -y
 choco upgrade choco-cleaner -y
 choco upgrade bitwarden -y
